@@ -1,4 +1,4 @@
 AuthType Basic
 		AuthName "not_access"
-		AuthUserFile "/var/www/kirbyhatena.github.io/input.github.io/.htpasswd"
+		AuthUserFile ".htpasswd"
 		require valid-user
