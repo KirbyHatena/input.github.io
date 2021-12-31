@@ -1,4 +1,0 @@
-AuthType Basic
-		AuthName "not_access"
-		AuthUserFile ".htpasswd"
-		require valid-user
